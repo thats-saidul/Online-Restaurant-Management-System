@@ -6,9 +6,6 @@
 
 **Order, dispatch, and administer a restaurant from one vanilla PHP stack — no frameworks, no build step.**
 
-[![Build](https://img.shields.io/github/actions/workflow/status/thats-saidul/Online-Restaurant-Management-System/ci.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=white&label=build)](https://github.com/thats-saidul/Online-Restaurant-Management-System/actions)
-[![Release](https://img.shields.io/github/v/release/thats-saidul/Online-Restaurant-Management-System?style=for-the-badge&color=E8590C&logo=github&logoColor=white)](https://github.com/thats-saidul/Online-Restaurant-Management-System/releases)
-[![Coverage](https://img.shields.io/codecov/c/github/thats-saidul/Online-Restaurant-Management-System?style=for-the-badge&logo=codecov&logoColor=white)](https://codecov.io/gh/thats-saidul/Online-Restaurant-Management-System)
 [![License](https://img.shields.io/github/license/thats-saidul/Online-Restaurant-Management-System?style=for-the-badge&color=2F6FEB)](LICENSE)
 
 [![PHP](https://img.shields.io/badge/PHP-8.2.12-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
