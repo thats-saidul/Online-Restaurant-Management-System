@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.orders-container {
+    max-width: 95%;
+    margin: auto;
+    background: #fff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.orders-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 16px;
+}
+
+.orders-table th,
+.orders-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+    vertical-align: top;
+}
+
+.orders-table th {
+    background-color: #222;
+    color: white;
+}
+
+.orders-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.back-btn-container {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.back-btn {
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.back-btn:hover {
+    background-color: #555;
+}
